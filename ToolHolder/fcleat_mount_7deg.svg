@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="20in"
+   height="7in"
+   viewBox="0 0 508 177.8"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   sodipodi:docname="fcleat_mount_test_7deg.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showgrid="true"
+     shape-rendering="crispEdges"
+     inkscape:zoom="0.84096521"
+     inkscape:cx="111.18177"
+     inkscape:cy="326.41065"
+     inkscape:window-width="1544"
+     inkscape:window-height="935"
+     inkscape:window-x="184"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5"
+     showguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid118"
+       units="in"
+       spacingx="6.35"
+       spacingy="6.35"
+       empspacing="4" />
+    <sodipodi:guide
+       position="-25.4,107.95"
+       orientation="1,0"
+       id="guide1041"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     id="g502-8-7"
+     inkscape:label="Mount1"
+     transform="translate(6.6145836)">
+    <g
+       inkscape:label="Block"
+       id="layer1-4-1">
+      <path
+         id="rect429-6-0"
+         style="display:inline;fill:#ff0000;stroke-width:0.264583"
+         d="M 17.907951 0 L -2.6666667e-07 20.240108 L -2.6666667e-07 50.270833 L 19.05 33.3375 L 19.05 50.8 C 15.532111 50.8 12.7 53.632112 12.7 57.15 L 12.7 107.95 C 12.7 111.4679 15.532111 114.3 19.05 114.3 L 19.05 127 L 15.419214 127 L 1.2707232 125.24248 C -2.2203454 124.80888 -5.3799972 127.27046 -5.8135989 130.76153 L -6.5959801 137.06295 C -7.0295818 140.55402 -4.5680058 146.88867 -1.0769371 147.32227 L 24.129276 147.27835 C 32.092318 147.59567 32.07796 141.99082 31.967558 135.68577 L 31.99598 135.45788 C 32.070049 134.86149 32.057808 134.27529 31.972208 133.71018 L 32.279166 0 L 17.907951 0 z " />
+    </g>
+    <g
+       id="layer2-3-2"
+       inkscape:label="cutout"
+       style="display:inline" />
+  </g>
+</svg>
