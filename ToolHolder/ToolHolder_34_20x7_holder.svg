@@ -7,7 +7,7 @@
    viewBox="0 0 508 177.8"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
    sodipodi:docname="ToolHolder_34_20x7_holder.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,15 +25,15 @@
      inkscape:document-units="in"
      showgrid="true"
      shape-rendering="crispEdges"
-     inkscape:zoom="1.1893044"
-     inkscape:cx="333.38816"
-     inkscape:cy="272.00774"
-     inkscape:window-width="1544"
-     inkscape:window-height="935"
-     inkscape:window-x="184"
-     inkscape:window-y="32"
+     inkscape:zoom="0.39795675"
+     inkscape:cx="645.79882"
+     inkscape:cy="331.69434"
+     inkscape:window-width="1237"
+     inkscape:window-height="836"
+     inkscape:window-x="105"
+     inkscape:window-y="22"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg5"
+     inkscape:current-layer="layer1"
      showguides="true">
     <inkscape:grid
        type="xygrid"
@@ -57,47 +57,21 @@
        height="120"
        id="rect677" />
   </defs>
-  <path
-     id="rect304"
-     style="display:inline;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.204945;stroke-opacity:1"
-     d="M 60.324994,69.85 H 22.224997 41.274995 60.324994 V 177.8 m -38.099998,0 H 60.324994 41.274995 22.224997 V 69.85"
-     sodipodi:nodetypes="cccccccccc" />
-  <rect
-     style="display:none;opacity:0.6812;fill:#ff0000;stroke-width:0.256683"
-     id="rect114"
-     width="101.6"
-     height="177.8"
-     x="0"
-     y="0" />
-  <text
-     xml:space="preserve"
-     transform="scale(0.26458333)"
-     id="text675"
-     style="white-space:pre;shape-inside:url(#rect677);opacity:0.6812;fill:#ffff00;stroke:#000000"><tspan
-       x="24"
-       y="34.947964"
-       id="tspan746">Desc: 2 cutouts in one
-</tspan><tspan
-       x="24"
-       y="49.947964"
-       id="tspan748">1.5 cutouts and 2.5 cutouts
-</tspan><tspan
-       x="24"
-       y="64.947964"
-       id="tspan750">
-</tspan><tspan
-       x="24"
-       y="79.947964"
-       id="tspan752">spacing ??
-</tspan><tspan
-       x="24"
-       y="94.947964"
-       id="tspan754">bit width takes 1/4</tspan></text>
-  <rect
-     style="opacity:0.6812;fill:#ffff00;stroke:#000000;stroke-width:0.264583"
-     id="rect733"
-     width="82.549995"
-     height="152.39999"
-     x="0"
-     y="0" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="main"
+     style="display:inline">
+    <path
+       id="rect733"
+       style="display:inline;opacity:0.6812;fill:#ffff00;stroke:#000000;stroke-width:0.321422"
+       inkscape:label="main"
+       d="M 104.01226 -0.051676432 L 104.01226 0.028938802 L 0.34003092 0.028938802 L 0.34003092 177.77106 L 25.4 177.77106 L 25.4 75.670833 L 63.5 75.670833 L 63.5 177.77106 L 104.79722 177.77106 L 104.79722 177.68993 L 129.07222 177.68993 L 129.07222 75.590218 L 167.17222 75.590218 L 167.17222 177.68993 L 207.74959 177.68993 L 207.74959 177.90129 L 232.80956 177.90129 L 232.80956 75.801058 L 270.90956 75.801058 L 270.90956 177.90129 L 312.20678 177.90129 L 312.20678 0.15916341 L 208.46945 0.15916341 L 208.46945 -0.051676432 L 104.01226 -0.051676432 z " />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1-4"
+     inkscape:label="main"
+     style="display:inline"
+     transform="translate(103.67218,-0.08087276)" />
 </svg>
