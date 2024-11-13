@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    sodipodi:docname="SillyOutletCover.svg"
-   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,12 +25,12 @@
      inkscape:document-units="in"
      showgrid="true"
      inkscape:zoom="0.4204826"
-     inkscape:cx="713.4659"
+     inkscape:cx="667.09062"
      inkscape:cy="600.50047"
-     inkscape:window-width="1615"
+     inkscape:window-width="1440"
      inkscape:window-height="817"
-     inkscape:window-x="1948"
-     inkscape:window-y="35"
+     inkscape:window-x="7"
+     inkscape:window-y="32"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1">
     <inkscape:grid
@@ -86,12 +86,13 @@
        rx="25.629065"
        ry="25.629063" />
     <ellipse
-       style="opacity:0.6812;fill:none;stroke:#000000;stroke-width:2.53999989;stroke-dasharray:none"
+       style="opacity:0.6812;fill:none;stroke:#000000;stroke-width:2.39404;stroke-dasharray:none"
        id="path904-5-0"
-       cx="375.49664"
-       cy="63.499996"
-       rx="12.204316"
-       ry="12.204317"
-       inkscape:label="path904-5-0" />
+       cx="382.27316"
+       cy="63.5"
+       rx="11.502982"
+       ry="11.50298"
+       inkscape:label="path904-5-0"
+       inkscape:transform-center-x="8.8961688" />
   </g>
 </svg>
