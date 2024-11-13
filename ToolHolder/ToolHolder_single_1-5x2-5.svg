@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="20in"
+   height="7in"
+   viewBox="0 0 508 177.8"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
+   sodipodi:docname="ToolHolder_single_1-5x2-5.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showgrid="true"
+     shape-rendering="crispEdges"
+     inkscape:zoom="0.7959135"
+     inkscape:cx="462.3618"
+     inkscape:cy="375.66896"
+     inkscape:window-width="1237"
+     inkscape:window-height="836"
+     inkscape:window-x="105"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     showguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid118"
+       units="in"
+       spacingx="6.35"
+       spacingy="6.35"
+       empspacing="4" />
+    <sodipodi:guide
+       position="-25.4,107.95"
+       orientation="1,0"
+       id="guide1041"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="24"
+       y="24"
+       width="336"
+       height="120"
+       id="rect677" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="main"
+     style="display:inline">
+    <path
+       id="rect733"
+       style="display:inline;opacity:0.6812;fill:#ffff00;stroke:#000000;stroke-width:0.321422"
+       inkscape:label="main"
+       d="M 89.12767,0.02893884 H 0.34003092 V 177.77106 H 25.4 V 75.670833 H 63.5 V 177.77106 l 25.673139,0.0546 z"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1-4"
+     inkscape:label="main"
+     style="display:inline"
+     transform="translate(103.67218,-0.08087276)" />
+</svg>
