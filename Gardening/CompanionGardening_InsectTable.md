@@ -3,20 +3,20 @@
 ## Beneficial Companion Plants
 
 | Beneficial Plant | Insects It Repels / Attracts                    | Crops That Benefit                            | When to Plant              |
-|------------------|-------------------------------------------------|------------------------------------------------|----------------------------|
-| Basil            | Repels [Aphids](#aphids), [Asparagus Beetles](#asparagus-beetle), [Mosquitoes](#mosquitoes); attracts [Bees](#bees) | Tomatoes, peppers, asparagus                 | After last frost (spring)  |
-| Borage           | Attracts [Bees](#bees), [Parasitic Wasps](#parasitic-wasps)      | Tomatoes, squash, strawberries                | After last frost (spring)  |
-| Calendula        | Attracts [Bees](#bees), [Hoverflies](#hoverflies), [Ladybugs](#ladybugs) | Most vegetables, especially cucumbers, carrots| Early spring               |
-| Catnip           | Repels [Flea Beetles](#flea-beetles), [Aphids](#aphids), [Squash Bugs](#squash-bugs) | Eggplant, squash, pumpkins                    | Spring (after frost)       |
-| Chives           | Repels [Aphids](#aphids), [Japanese Beetles](#japanese-beetles) | Carrots, tomatoes, lettuce                    | Early spring or fall       |
-| Cilantro         | Attracts [Hoverflies](#hoverflies), [Parasitic Wasps](#parasitic-wasps) | Spinach, carrots, tomatoes                    | Early spring or fall       |
-| Dill             | Attracts [Ladybugs](#ladybugs), [Hoverflies](#hoverflies), [Parasitic Wasps](#parasitic-wasps) | Lettuce, cucumbers, onions, brassicas         | Spring or late summer      |
-| Garlic           | Repels [Aphids](#aphids), [Root Maggots](#root-maggots), [Japanese Beetles](#japanese-beetles) | Carrots, tomatoes, lettuce, strawberries      | Fall or early spring       |
-| Marigold         | Repels [Nematodes (bad types)](#nematodes-bad-types), [Aphids](#aphids), [Whiteflies](#whiteflies) | Tomatoes, peppers, beans, brassicas           | After last frost (spring)  |
-| Mint             | Repels [Aphids](#aphids), [Cabbage Loopers](#cabbage-loopers), [Flea Beetles](#flea-beetles) | Cabbage family, peas, tomatoes                | Spring (contain roots!)    |
-| Nasturtium       | Attracts [Aphids](#aphids); repels [Whiteflies](#whiteflies)     | Tomatoes, squash, cucumbers, beans            | After last frost (spring)  |
-| Tansy            | Repels [Ants](#ants), [Squash Bugs](#squash-bugs), [Cabbage Loopers](#cabbage-loopers), Squash Vine Borer | Corn, beans, squash, potatoes                 | After last frost (spring)  |
-| Yarrow           | Attracts [Ladybugs](#ladybugs), [Lacewings](#lacewings), [Hoverflies](#hoverflies) | All garden crops                              | Spring or fall             |
+|------------------|--------------------------------------------------|------------------------------------------------|----------------------------|
+| Basil            | **Repels:** [Aphids](#aphids), [Asparagus Beetles](#asparagus-beetle), [Mosquitoes](#mosquitoes)<br>**Attracts:** [Bees](#bees) | Tomatoes, peppers, asparagus                 | After last frost (spring)  |
+| Borage           | **Attracts:** [Bees](#bees), [Parasitic Wasps](#parasitic-wasps) | Tomatoes, squash, strawberries                | After last frost (spring)  |
+| Calendula        | **Attracts:** [Bees](#bees), [Hoverflies](#hoverflies), [Ladybugs](#ladybugs) | Most vegetables, especially cucumbers, carrots| Early spring               |
+| Catnip           | **Repels:** [Flea Beetles](#flea-beetles), [Aphids](#aphids), [Squash Bugs](#squash-bugs) | Eggplant, squash, pumpkins                    | Spring (after frost)       |
+| Chives           | **Repels:** [Aphids](#aphids), [Japanese Beetles](#japanese-beetles) | Carrots, tomatoes, lettuce                    | Early spring or fall       |
+| Cilantro         | **Attracts:** [Hoverflies](#hoverflies), [Parasitic Wasps](#parasitic-wasps) | Spinach, carrots, tomatoes                    | Early spring or fall       |
+| Dill             | **Attracts:** [Ladybugs](#ladybugs), [Hoverflies](#hoverflies), [Parasitic Wasps](#parasitic-wasps) | Lettuce, cucumbers, onions, brassicas         | Spring or late summer      |
+| Garlic           | **Repels:** [Aphids](#aphids), [Root Maggots](#root-maggots), [Japanese Beetles](#japanese-beetles) | Carrots, tomatoes, lettuce, strawberries      | Fall or early spring       |
+| Marigold         | **Repels:** [Nematodes (bad types)](#nematodes-bad-types), [Aphids](#aphids), [Whiteflies](#whiteflies) | Tomatoes, peppers, beans, brassicas           | After last frost (spring)  |
+| Mint             | **Repels:** [Aphids](#aphids), [Cabbage Loopers](#cabbage-loopers), [Flea Beetles](#flea-beetles) | Cabbage family, peas, tomatoes                | Spring (contain roots!)    |
+| Nasturtium       | **Repels:** [Whiteflies](#whiteflies)<br>**Attracts:** [Aphids](#aphids) | Tomatoes, squash, cucumbers, beans            | After last frost (spring)  |
+| Tansy            | **Repels:** [Ants](#ants), [Squash Bugs](#squash-bugs), [Cabbage Loopers](#cabbage-loopers) | Corn, beans, squash, potatoes                 | After last frost (spring)  |
+| Yarrow           | **Attracts:** [Ladybugs](#ladybugs), [Lacewings](#lacewings), [Hoverflies](#hoverflies) | All garden crops                              | Spring or fall             |
 
 ---
 
