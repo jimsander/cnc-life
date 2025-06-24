@@ -41,7 +41,6 @@
 | <a name="squash-bugs"></a>Squash Bugs                   | Damaging   | Suck juices from squash family plants, causing wilting and black spots                                    |
 | <a name="whiteflies"></a>Whiteflies                     | Damaging   | Suck sap, transmit plant diseases, cause yellowing and wilting                                            |
 
-
 ---
 
 *Note: Some insects marked with asterisks (*) are not direct plant pests but can affect the garden ecosystem indirectly.
